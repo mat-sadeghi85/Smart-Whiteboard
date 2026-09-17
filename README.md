@@ -2,6 +2,8 @@
 
 A virtual whiteboard controlled entirely by hand gestures via webcam. Draw in the air with your index finger, erase with an open palm, and let the app auto-clean simple shapes (circles, squares, rectangles, triangles) into perfect geometry.
 
+<video src="./demo.mp4" controls width="100%"></video>
+
 ## Features
 
 - Draw by tracking your index fingertip (MediaPipe Hands)
